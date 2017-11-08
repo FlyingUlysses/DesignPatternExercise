@@ -24,12 +24,12 @@ public class Run {
 //		System.out.println(triangle2.getArea());
 //		System.out.println(rectangle2.getArea());
 		
-		System.out.println(FactorySingle.getFactory().getArea("rectangle"));
-		System.out.println(FactorySingle.getFactory().getArea("triangle"));
-		System.out.println(FactorySingle.getFactory().getArea("rectangle"));
-		System.out.println(FactorySingle.getFactory().getArea("triangle"));
-		System.out.println(FactorySingle.getFactory().getArea("rectangle"));
-		System.out.println(FactorySingle.getFactory().getArea("triangle"));
+//		System.out.println(FactorySingle.getFactory().getArea("rectangle"));
+//		System.out.println(FactorySingle.getFactory().getArea("triangle"));
+//		System.out.println(FactorySingle.getFactory().getArea("rectangle"));
+//		System.out.println(FactorySingle.getFactory().getArea("triangle"));
+//		System.out.println(FactorySingle.getFactory().getArea("rectangle"));
+//		System.out.println(FactorySingle.getFactory().getArea("triangle"));
 		
 	}
 }
